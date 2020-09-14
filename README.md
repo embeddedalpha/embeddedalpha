@@ -1,4 +1,5 @@
-### Hi there 👋
+![Group1](https://user-images.githubusercontent.com/38166489/93090849-fa2fad80-f6ba-11ea-82e9-1c0245f1afa9.png)
+
 
 <!--
 **embeddedalpha/embeddedalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
