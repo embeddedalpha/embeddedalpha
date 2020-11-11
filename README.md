@@ -1,5 +1,6 @@
 ![Group 1](https://user-images.githubusercontent.com/38166489/96145323-b67ecc80-0f22-11eb-8b33-16cb5fe68921.png)
 
+![Group 1](https://komarev.com/ghpvc/?username=embeddedalpha&color=green)
 
 <!--
 **embeddedalpha/embeddedalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
