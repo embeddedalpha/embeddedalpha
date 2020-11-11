@@ -1,6 +1,4 @@
-![Group 1](https://user-images.githubusercontent.com/38166489/96145323-b67ecc80-0f22-11eb-8b33-16cb5fe68921.png)
-
-![Group 1](https://komarev.com/ghpvc/?username=embeddedalpha&color=green)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=embeddedalpha&show_icons=true&count_private=true&theme=dracula&hide_title=true" />
 
 <!--
 **embeddedalpha/embeddedalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
