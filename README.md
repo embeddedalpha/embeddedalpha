@@ -1,6 +1,5 @@
 <h1>Blackshield Engineering </h1>
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=embeddedalpha&show_icons=true&count_private=true&theme=tokyonight&hide_title=true" />
 
 ⭐ LinkedIn: www.linkedin.com/in/kunalsalvi63
 
