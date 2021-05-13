@@ -1,9 +1,24 @@
-<h1>Blackshield Engineering </h1>
+<h3 align="center">
+  
+  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50">
+  Welcome to Kunal Salvi's Profile!
+  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50">
+</h3>
+
+
+
+<h3 align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=embeddedaplha.visitor-badge) [![Repos Badge](https://badges.pufler.dev/repos/embeddedalpha)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/embeddedalpha)](https://badges.pufler.dev)
 
+</h3>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=embeddedalpha&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=highcontrast&&currStreakNum=DD1010&dates=white)](https://git.io/streak-stats)
+<h3 align="center">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=embeddedalpha&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=highcontrast&&currStreakNum=DD1010&dates=white)](https://git.io/streak-stats)
+
+</h3>
+
 
 
 ⭐ LinkedIn: www.linkedin.com/in/kunalsalvi63
@@ -26,22 +41,18 @@
 
 <br />
 
-### Softwares
----
+<!--- 
 
+### Softwares
 <img align="left" alt="KiCAD" width="30px" src="https://user-images.githubusercontent.com/38166489/118163105-3a5c5100-b43f-11eb-9ad8-7e54b665e8e2.png" />
 
-<!--
-**embeddedalpha/embeddedalpha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://instagram.com">
+<img align = "left" 
+     wdth = "30px"
+     src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
+</a>
+  
+ <img align = "left" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" />
+--->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
