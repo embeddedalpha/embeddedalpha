@@ -1,7 +1,7 @@
 <h1 align="center">
   
   <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50">
-  Welcome to Kunal Salvi's Profile!
+  Welcome to My Profile!
   <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50">
 </h1>
 
