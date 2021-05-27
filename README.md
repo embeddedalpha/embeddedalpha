@@ -1,8 +1,5 @@
 <h1 align="center">
-  
-  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50">
-  Welcome to My Profile!
-  <img src="https://media.giphy.com/media/J2awouDsf23R2vo2p5/giphy.gif" width="50">
+  Hi, there! I'm Kunal Salvi, an Embedded System Engineer. 
 </h1>
 
 
