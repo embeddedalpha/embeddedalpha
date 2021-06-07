@@ -10,13 +10,15 @@
 
 </h3>
 
+<!---
+
 <h3 align="center">
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=embeddedalpha&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=highcontrast&&currStreakNum=DD1010&dates=white)](https://git.io/streak-stats)
 
 </h3>
 
-
+--->
 
 ⭐ LinkedIn: www.linkedin.com/in/kunalsalvi63
 
