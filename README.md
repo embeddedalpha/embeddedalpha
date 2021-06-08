@@ -10,7 +10,7 @@
 
 </h3>
 
-<h3> If you like the work I do or if my repos have helped on inspired you consider buying me a coffee 😊 </h3> 
+<h3> If you like the work I do or if my repos have helped or inspired you consider buying me a coffee 😊 </h3> 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kunalsalvi)
 
