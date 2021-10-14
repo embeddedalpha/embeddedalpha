@@ -1,7 +1,10 @@
 <h1 align="center">
-  Hi, there! I'm Kunal Salvi, an Embedded System Engineer. I write drivers for popular MCUs and do IoT porjects for fun. If you'd like to colaborate or hire me for a project, just shoot an email at kunalsalvi63@gmail.com
+  Hi, there! I'm Kunal Salvi, an Embedded System Engineer. 
 </h1>
-
+<hr>
+<h3>
+I write drivers for popular MCUs and do IoT porjects for fun. If you'd like to colaborate or hire me for a project, just shoot an email at kunalsalvi63@gmail.com
+</h3>
 
 
 <h3 align="center">
