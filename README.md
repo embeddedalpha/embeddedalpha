@@ -27,13 +27,10 @@ I write drivers for popular MCUs and do IoT porjects for fun. If you'd like to c
 
 --->
 
-⭐ LinkedIn: www.linkedin.com/in/kunalsalvi63
-
-⭐ Instagram: @blackshield_engineering
-
-⭐ GrabCAD: https://grabcad.com/kunal.salvi-2
-
-⭐ Gmail: kunalsalvi63@gmail.com
+⭐ [LinkedIn](www.linkedin.com/in/kunalsalvi63) 
+⭐ [Instagram (Personal)](https://www.instagram.com/ziran_daruwala/) 
+⭐ [Instagram (Professional)](https://www.instagram.com/blackshield_engineering/)
+⭐ [GrabCAD](https://grabcad.com/kunal.salvi-2) ⭐ [Email Personal](kunalsalvi63@gmail.com)
 
 
 ### Languages
