@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, there! I'm Kunal Salvi, an Embedded System Engineer. 
+  Hi, there! I'm Kunal Salvi, an Embedded Systems Engineer. 
 </h1>
 <hr>
 <h3>
