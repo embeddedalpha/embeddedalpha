@@ -26,7 +26,9 @@ I write drivers for popular MCUs and do IoT porjects for fun. If you'd like to c
 </h3>
 
 --->
-![linkedin (1)](https://user-images.githubusercontent.com/38166489/155270845-e73ac092-0bf2-4544-9d80-a8ea73caa90a.png) 
+<!---
+ ![linkedin (1)](https://user-images.githubusercontent.com/38166489/155270845-e73ac092-0bf2-4544-9d80-a8ea73caa90a.png) 
+--->
 
 ⭐ [LinkedIn](www.linkedin.com/in/kunalsalvi63) 
 ⭐ [Instagram (Personal)](https://www.instagram.com/ziran_daruwala/) 
