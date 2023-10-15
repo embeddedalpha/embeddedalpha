@@ -1,3 +1,7 @@
+
+<img src="python-blogn-banner2.png">
+
+
 <h1 align="center">
   Hi, there! I'm Kunal Salvi, an Embedded Systems Engineer. 
 </h1>
