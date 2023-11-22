@@ -53,10 +53,6 @@ I write drivers for popular MCUs and do IoT porjects for fun. If you'd like to c
 
 <br />
 
----
-### Contribution Graph
-
-[![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=embeddedalpha&theme=react-dark&line=17de35&area=true&hide_border=true&color=ffffff)](https://github.com/embeddedalpha/github-readme-activity-graph)
 
 
 <!--- 
