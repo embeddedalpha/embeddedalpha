@@ -2,42 +2,68 @@
 <img src="python-blogn-banner2.png">
 
 
-<h1 align="center">
-  Hi, there! I'm Kunal Salvi, an Embedded Systems Engineer. 
-</h1>
-<hr>
-<h3>
-I write drivers for popular MCUs and do IoT porjects for fun. If you'd like to colaborate or hire me for a project, just shoot an email at kunalsalvi63@gmail.com
-</h3>
+# 👋 Hello, I'm Kunal Salvi
+
+## 🚀 About Me
+I am a passionate embedded system engineer with over 4 years of hands-on experience in designing and developing innovative solutions for the embedded world. My journey in the field has equipped me with a deep understanding of hardware-software integration, real-time systems, and low-level programming.
+
+## 💼 Professional Experience 
+- **Electrical Engineering Intern** at First Co. Dallas, TX, United States (Sept 2023-present)
+  - Implemented various testing methodologies to ensure the reliability and accuracy of the driver, resulting in a 99% reduction in sensor communication errors.
+  - Developed and optimized drivers for PIC18F25K50 GPIO, ADC, and Timers to enhance analog frontend signal processing, resulting in a 20% increase in signal accuracy.
+  - Conducted test in accordance with ASHRAE Standard 193-2010 (RA 2014) to determine air leakage in packaged air conditioning unit.
+  - Developed innovative design solutions for tubes and fixtures using AutoCAD Inventor, resulting in a 20% reduction in manufacturing costs.
+ 
+- **Embedded Systems Engineer** at Accio Robotics Bangalore, India  (Dec 2021 – July 2022)
+  - Led the development of CAN & Ethernet-based drivers for autonomous mobile robots, increasing data transfer rates and improving connectivity with external systems by 25%.
+  - Created and maintained software documentation for both Python and C projects, ensuring compliance with industry standards and reducing error rates by 15%.
+  - Developed low-level drivers for embedded communication protocols such CAN, UART/USART, SPI, I2C, I2S, Ethernet, and DCMI reducing code base size by 30%.
+  - Managed version control for multiple projects simultaneously using Git, ensuring proper code collaboration across teams while maintaining strict adherence to release   schedules, resulting in an on-time delivery rate of over 95%.
+ 
+- **Hardware Engineer** - Freelance Mumbai & Bangalore, India  (Aug 2019 – Dec 2021)
+  -  Project: Robotic Arm Control System  
+     *  Developed firmware for a robotic arm control system, implementing inverse kinematics algorithms and motion planning techniques.
+     *  Collaborated with mechanical engineers to optimize the control system's dynamics, achieving precise and smooth robotic arm movements.
+     *  Conducted extensive testing and calibration, ensuring accurate positioning and reliability in various operating conditions.  
+     *  Received recognition for delivering the project within budget constraints and exceeding client expectations in terms of performance and
+        usability.
+     
+  -  Project: Industrial IoT Gateway
+     *  Created firmware for an industrial IoT gateway, enabling real-time monitoring and control of multiple sensors and actuators in a
+        manufacturing environment.
+     *  Collaborated with a cross-functional team to define and implement secure communication protocols, ensuring data privacy and integrity.
+     *  Reduced data transmission latency by 40% through algorithm optimization, enhancing real-time monitoring capabilities.
+     *  Provided on-site support during system deployment, resolving technical challenges and ensuring a smooth transition to production.
+
+  -  Project: Wearable Fitness Tracker
+      * Led the development of embedded software for a wearable fitness tracker, incorporating step counting, heart rate monitoring, and sleep
+        tracking features.
+      * Implemented power management techniques, extending the device's battery life by 50%, which received positive feedback from users.
+      * Collaborated with industrial designers to optimize the user interface and enhance user experience based on user feedback.
+      * Successfully delivered the project ahead of schedule, meeting all project milestones and receiving commendation from the client.
+
+## 🛠️ Skills
+- **Programming Languages:** C, C++, Python, HTML, CSS, Rust, Embedded C/C++, Java, System Verilog, VHDL, MATLAB
+- **Microcontrollers:** STMicroelectronics, NXP, TI, Microchip, Atmel
+- **Communication Protocols:** I2C, SPI, UART/USART, CAN, Ethernet, I2S, TCP/IP, USB, SAI, SDIO, SWD, JTAG, BacNET
+- **Peripherals:** DCMI, DMA, Clock, Timer, Real Time Clock, GPIO, Interrupts, ADC, DAC, Watchdog, FSMC, DC/D
+- **RTOS:** FreeRTOS, ChibiOS, CMSIS RTOS
+- **Embedded Software Development:** Bare-metal programming, Firmware development, Real-Time System development
+ 
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/kunalsalvi63)
+
+## 📚 Education
+- **Bachelor of Engineering in Electronics** from University of Mumbai (2019)
+- **Masters of Science in Electrical Engineering** from University of Texas at Arlington (2024)
 
 
-<h3 align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=embeddedaplha.visitor-badge) [![Repos Badge](https://badges.pufler.dev/repos/embeddedalpha)](https://badges.pufler.dev) [![Years Badge](https://badges.pufler.dev/years/embeddedalpha)](https://badges.pufler.dev)
+## 🌱 Interests
+Embedded systems, IoT, Robotics, Low-level programming, and Continuous learning.
 
-</h3>
 
-<h3> If you like the work I do or if my repos have helped or inspired you consider buying me a coffee 😊 </h3> 
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/kunalsalvi)
-
-<!---
-
-<h3 align="center">
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=embeddedalpha&currStreakNum=2FD3EB&fire=red&sideLabels=F00&theme=highcontrast&&currStreakNum=DD1010&dates=white)](https://git.io/streak-stats)
-
-</h3>
-
---->
-<!---
- ![linkedin (1)](https://user-images.githubusercontent.com/38166489/155270845-e73ac092-0bf2-4544-9d80-a8ea73caa90a.png) 
---->
-
-⭐ [LinkedIn](www.linkedin.com/in/kunalsalvi63) 
-⭐ [Instagram (Personal)](https://www.instagram.com/ziran_daruwala/) 
-⭐ [Instagram (Professional)](https://www.instagram.com/blackshield_engineering/)
-⭐ [GrabCAD](https://grabcad.com/kunal.salvi-2) ⭐ [Email Personal](kunalsalvi63@gmail.com)
 
 
 ### Languages
