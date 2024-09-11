@@ -26,14 +26,7 @@ I am a passionate embedded system engineer with over 4 years of hands-on experie
 ## 🌱 Interests
 Embedded systems, IoT, Robotics, Low-level programming, and Continuous learning.
 
-### Languages
----
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Python" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/python-5.svg?raw=true"/> 
-<img align="left" alt="C" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/c-programming.png"/>
-<img align="left" alt="git" width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
-<img align="left" alt="GitHub" width="30px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/github.svg"/>
+
 
 <br />
 
