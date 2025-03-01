@@ -1,5 +1,5 @@
 
-<img src="DALL·E 2025-02-28 22.04.16 - A professional banner for a technology and embedded systems theme. The design should feature a futuristic, dark, and sleek background with circuit boa.webp">
+<img src="image2.webp">
 
 
 # 👋 Hello, I'm Kunal Salvi
